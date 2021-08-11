@@ -1,0 +1,17 @@
+---
+title: "Optimizing microalgal productivity in raceway ponds through a controlled mixing device"
+authors: [Olivier Bernard, admin, Julien Salomon]
+date: 2020-09-28T18:21:43+01:00
+publishDate: 2020-09-28T18:21:43+01:00
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+publication: "Submitted"
+
+abstract: We present a coupled model describing growth of microalgae in a raceway cultivation process, accounting for hydrodynamics. Our approach combines a biological model (based on the Han model) and shallow water dynamics equations that model the fluid into the raceway. We then describe an optimization procedure dealing with the topography to maximize the biomass production over one cycle (one lap of the raceway). The results show that non-flat topographies enhance microalgal productivity.
+
+url_preprint: https://hal.archives-ouvertes.fr/hal-02970756
+---
