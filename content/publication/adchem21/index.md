@@ -3,7 +3,7 @@
 
 title: "Mixing Strategies Combined with Shape Design to Enhance Productivity of a Raceway Pond"
 authors: [Olivier Bernard, admin, Julien Salomon]
-date: 2020-11-20T18:21:43+01:00
+date: 2021-06-13T18:21:43+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-20T18:21:43+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in the Proceedings of the 11th IFAC SYMPOSIUM on Advanced Control of Chemical Processes"
+publication: "In 11th IFAC SYMPOSIUM on Advanced Control of Chemical Processes"
 publication_short: "ADCHEM2021"
 
 abstract: "This paper focuses on mixing strategies and designing shape of the bottom topographies to enhance the growth of the microalgae in raceway ponds. A physical-biological coupled model is used to describe the growth of the algae. A simple model of a mixing device such as a paddle wheel is also considered. The complete process model was then included in an optimization problem associated with the maximization of the biomass production. The results show that non-trivial topographies can be coupled with some specific mixing strategies to improve the microalgal productivity."
