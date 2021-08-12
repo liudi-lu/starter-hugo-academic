@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Sorbonne University (UPMC)
-      year: Since 2018
+      year: 2021
     - course: Master in Applied Mathematics
       institution: Sorbonne University (UPMC)
       year: 2018
