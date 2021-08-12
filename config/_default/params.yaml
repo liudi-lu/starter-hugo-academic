@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
+font: 'native'
 font_size: L
 
 # SEO
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-# email: test@example.org
+email: liudi.lu@inria.fr
 # phone: 888 888 88 88
 address:
   street: 4 place Jussieu
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '48.84671025501151'
   longitude: '2.354895369311538'
-directions: Tour 15-16 Office 303
+directions: Tour 15-16, Office 303
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
@@ -59,7 +59,7 @@ directions: Tour 15-16 Office 303
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
