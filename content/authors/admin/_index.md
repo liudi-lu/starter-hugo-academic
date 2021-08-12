@@ -50,6 +50,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3629-9879
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/liu-di-lu-0ba401136/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

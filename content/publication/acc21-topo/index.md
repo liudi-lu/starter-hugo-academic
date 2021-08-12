@@ -17,4 +17,10 @@ publication_short: "ACC2021"
 abstract: We present a coupled model describing growth of microalgae in a raceway cultivation process, accounting for hydrodynamics. Our approach combines a biological model (based on the Han model) and shallow water dynamics equations that model the fluid into the raceway. We then describe an optimization procedure dealing with the topography to maximize the biomass production over one cycle (one lap of the raceway). The results show that non-flat topographies enhance microalgal productivity.
 
 url_preprint: https://hal.archives-ouvertes.fr/hal-02970776
+
+image:
+  placement: 1
+  caption: ""
+  focal_point: "TopRight"
+  preview_only: false
 ---

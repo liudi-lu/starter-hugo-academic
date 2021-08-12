@@ -141,7 +141,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  # provider: 'google'
+  # api_key: 'AIzaSyCPf40IPyVFi_CFdK0zslX6-WI6S2qP8D8'
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
