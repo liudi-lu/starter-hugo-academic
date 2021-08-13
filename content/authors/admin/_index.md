@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liu-Di LU(柳磾 卢)
+title: Liu-Di LU
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,7 +29,7 @@ education:
     - course: PhD in Applied Mathematics
       institution: Sorbonne University (UPMC)
       year: 2021
-    - course: Master in Applied Mathematics
+    - course: Master in Mathematics and Applications
       institution: Sorbonne University (UPMC)
       year: 2018
     - course: BSc in Mathematics
@@ -53,13 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/柳磾-卢-0ba401136/?locale=en_US
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

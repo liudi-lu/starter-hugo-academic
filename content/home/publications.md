@@ -13,6 +13,7 @@ title: Publications & Preprints
 subtitle: ""
 
 content:
+  contentDir: content/publication
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
