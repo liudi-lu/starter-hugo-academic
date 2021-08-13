@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Liu-Di Lu - Laboratoire Jacques-Louis Lions'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -69,7 +69,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04 PM'
 address_format: en-us
 
 # Site features
