@@ -22,6 +22,11 @@ design:
         # text_color_light: true
 ---
 
+## University of Geneva
+
+
+- Analyse II - Analyse Réelle (2021-2022)
+
 ## Sorbonne University (in French)
 
 
