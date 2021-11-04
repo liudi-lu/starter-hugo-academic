@@ -39,7 +39,8 @@ title: 'Talks'
 #   #   4 = Citation (publication only)
 #   view: 2
 ---
-
+- Geneva, November 2, 2021\
+  [Numerical Analysis Seminar](https://www.unige.ch/math/fr/annonces/anum/) *Microalgal raceway ponds modelling and optimization problems*, [**Slides**](/media/seminar_geneva.pdf)
 - Venice, June 13, 2021\
   [ADCHEM2021](https://www.adchem2021.org): *Mixing Strategies Combined with Shape Design to Enhance Productivity of a Raceway Pond*, [**Slides**](/media/ADCHEM2021.pdf)
 - Sophia Antipolis, June 3, 2021, Inria\

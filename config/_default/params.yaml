@@ -14,8 +14,8 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'Laboratoire Jacques-Louis Lions'
-description: 'Liu-Di Lu - Laboratoire Jacques-Louis Lions'
+org_name: 'Section de Mathématiques, Université de Genève'
+description: 'Liu-Di Lu, Postdoctoral researcher'
 keyword: 
   - Liudi Lu
   - Liu-di Lu
@@ -23,19 +23,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: liudi.lu@inria.fr
+email: liudi.lu@unige.ch
 # phone: 888 888 88 88
 address:
-  street: 4 place Jussieu
-  city: Paris
+  street: Rue du Conseil Général, 7-9
+  city: Genève
   region: 
-  postcode: '75005'
-  country: France
-  country_code: FR
+  postcode: '1205'
+  country: Switherland
+  country_code: CH
 coordinates:
-  latitude: '48.84671025501151'
-  longitude: '2.354895369311538'
-directions: Tour 15-16, Office 303
+  latitude: '46.19875547873196'
+  longitude: '6.143272555729935'
+directions: Office 511
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
