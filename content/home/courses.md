@@ -23,9 +23,9 @@ design:
 ---
 
 ## University of Geneva
-
-
-- Analyse II - Analyse Réelle (2021-2022) [**TD1 corrigé**](media/analyse2/corrige1.pdf)
+- Analyse numérique (2022 Printemps)
+- Analyse II - Analyse Réelle (2022 Printemps)
+- Analyse II - Analyse Réelle (2021 Automne) [**TD1 corrigé**](media/analyse2/corrige1.pdf)
 
 ## Sorbonne University (in French)
 
