@@ -1,6 +1,6 @@
 ---
 title: "Optimal optical conditions for Microalgal production in photobioreactors"
-authors: [Olivier Bernard, admin]
+authors: [Joel Ignacio Fierro Ulloa, admin, Olivier Bernard]
 date: 2021-11-19T18:21:43+01:00
 doi: ""
 
