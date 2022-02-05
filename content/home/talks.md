@@ -39,6 +39,8 @@ title: 'Talks'
 #   #   4 = Citation (publication only)
 #   view: 2
 ---
+- Paris, January 24, 2022\
+  [MaIAGE Seminar](https://maiage.inrae.fr/fr/seminaires_ext_precedents) *Some modelling and optimization problems for microalgal raceway ponds*, [**Slides**](/media/seminar_MaIAGE.pdf)
 - Geneva, November 2, 2021\
   [Numerical Analysis Seminar](https://www.unige.ch/math/fr/annonces/anum/) *Microalgal raceway ponds modelling and optimization problems*, [**Slides**](/media/seminar_geneva.pdf)
 - Venice, June 13, 2021\
