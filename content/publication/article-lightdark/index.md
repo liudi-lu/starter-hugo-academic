@@ -1,5 +1,5 @@
 ---
-title: "Optimal optical conditions for Microalgal production in photobioreactors"
+title: "Theoretical growth rate under high/low-flashing light"
 authors: [Joel Ignacio Fierro Ulloa, admin, Olivier Bernard]
 date: 2021-11-19T18:21:43+01:00
 doi: ""
@@ -17,8 +17,7 @@ publication_types: ["3"]
 publication: "Submitted"
 publication_short: ""
 
-abstract: "Light availability has a huge impact on the photosynthesis efficiency of the microalgae. Low light in the reactors leads to limited growth of the algae, whereas strong light may induce the damage to the photosynthetic reaction center, hence reduce the growth. Finding the optimal light regime is then a tricky problem, especially when the growth rate
-is inhibited by being overexposed to the light. In this paper, we study the theoretical microalgal growth rate using the Han model under the high/low flashing light regime, i.e. when two different light intensities are applied. Two approaches were considered depending on the period of the light pattern. For a large light period we show that, under some conditions, we can improve the average growth rate and get greater values than the ones that the PI-curve can achieve in the Han model. Although, These conditions change through the depth of a bioreactor. This theoretical improvement is due to a recover of photodamaged cells during the high light intensity phase. Considering flashing light, we give a minimal value of the duty cycle for which the optimal light intensity is perceived by the algae culture, we also give the value of the depth in which the algae perceives this optical light intensity."
+abstract: "Light availability has a huge impact on the photosynthesis efficiency of the microalgae. Low light in the reactors leads to limited growth of the algae, whereas strong light may induce the damage to the photosynthetic reaction center, hence reduce the growth. Finding the optimal light regime is then a tricky problem, especially when the growth rate is inhibited by being overexposed to the light. In this paper, we study the theoretical microalgal growth rate using the Han model under the high/low flashing light regime, i.e. when two different light intensities are applied. Two approaches were considered depending on the period of the light pattern. For a large light period we show that, under some conditions we can improve the average growth rate and get greater values than the ones that the PI-curve can achieve in the Han model. Although, These conditions change through the depth of a bioreactor. This theoretical improvement is due to a recover of photodamaged cells during the high light intensity phase. Considering flashing light, we give a minimal value of the duty cycle for which the optimal light intensity is perceived by the algae culture, we also give the value of the depth in which the algae perceives this optical light intensity."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,7 +34,6 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_preprint: 
 url_code:
 url_dataset:
 url_poster:
